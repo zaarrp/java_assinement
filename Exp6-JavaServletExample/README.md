@@ -1,5 +1,5 @@
 Output for counting the number of times visited :-                         
-https://github.com/zaarrp/java_assinement/blob/main/Exp6-JavaServletExample/CookieCount.png
+https://github.com/zaarrp/java_assinement/blob/main/Exp6-JavaServletExample/6a.png
 
 Output for the factorial calculation :-                               
 https://github.com/zaarrp/java_assinement/blob/main/Exp6-JavaServletExample/Factorial.png
