@@ -161,7 +161,7 @@ ___
 
 6a. Build a servlet program to find the factorial of a number using HTML with step by step
 procedure.
-[Output](https://github.com/zaarrp/java_assinement/blob/main/Exp6-JavaServletExample/CookieCount.png)
+[Output](https://github.com/zaarrp/java_assinement/blob/main/Exp6-JavaServletExample/6a.png)
 
 6b. Build a servlet program to create a cookie to get your name through text box and press submit
 button( through HTML) to display the message by greeting Welcome back your name ! , you have
@@ -182,15 +182,15 @@ ___
 7a. Build a Session Management using JSP program set with one minute session expiry time to get
 your name through text box and press submit to display the message by greeting Hello your name!.
 Check the expiry of the session after one minute.
-[Output](https://github.com/zaarrp/java_assinement/blob/main/Exp7-JavaServletExample/Cookie.png)
+[Output](https://github.com/zaarrp/java_assinement/blob/main/Exp7-JavaServletExample/Cookie1.png)
 
 
 7b. Construct a Cookie Management program using JSP to get the fields Name, Domain and Max
 Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then
 it has to go to show the active cookie list when you press the link go to the active cookie list
-[Output](https://github.com/zaarrp/java_assinement/blob/main/Exp7-JavaServletExample/Session.png)
-[Output](https://github.com/zaarrp/java_assinement/blob/main/Exp7-JavaServletExample/Session1.png)
-[Output](https://github.com/zaarrp/java_assinement/blob/main/Exp7-JavaServletExample/Session2.png)
+[Output](https://github.com/zaarrp/java_assinement/blob/main/Exp7-JavaServletExample/7b1.png)
+[Output](https://github.com/zaarrp/java_assinement/blob/main/Exp7-JavaServletExample/7b2.png)
+[Output](https://github.com/zaarrp/java_assinement/blob/main/Exp7-JavaServletExample/7b3.png)
 
 
 
@@ -212,14 +212,14 @@ existing coffee product in the table with its id. [Create a table coffee with fi
 into the table Emp of the database Employee by getting the fields through keyboard and
 Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary ) using
 HTML and JSP to get the fields and display the results respectively
-[Output](https://github.com/zaarrp/java_assinement/blob/main/Exp8-JDBCExample/8c.jpeg)
+[Output](https://github.com/zaarrp/java_assinement/blob/main/Exp8-JDBCExample/8c.jpg)
 
 
 8d. Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into
 the table Emp of the database Employee using HTML and JSP to get the fields and display the
 results respectively
 
-[Output](https://github.com/zaarrp/java_assinement/blob/main/Exp8-JDBCExample/8d.jpeg)
+[Output](https://github.com/zaarrp/java_assinement/blob/main/Exp8-JDBCExample/8d.jpg)
 
 
 ___
@@ -238,7 +238,7 @@ coffee name starting with ‘D’ in the table using HTML and JSP to get the fie
 into the table Emp of the database Employee by getting the fields through keyboard and Generate
 the report as follows for the table Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP
 to get the field and display the results respectively
-[Output](https://github.com/zaarrp/java_assinement/blob/main/Exp9-JDBCExample/9c.jpeg)
+[Output](https://github.com/zaarrp/java_assinement/blob/main/Exp9-JDBCExample/9c.jpg)
 
 9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database
 Employee by getting the name starting with ‘S’ through keyboard and Generate the report as
